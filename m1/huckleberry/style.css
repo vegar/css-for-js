@@ -21,6 +21,7 @@ body {
 
 body {
   background-color: hsl(0, 0%, 60%);
+  line-height: 1.4;
 }
 
 strong {
